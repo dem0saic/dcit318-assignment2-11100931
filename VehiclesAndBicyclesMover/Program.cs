@@ -1,4 +1,4 @@
-﻿namespace InterfaceMovablesDemo
+﻿namespace VehiclesAndBicyclesMover
 {
     public interface IMovable
     {

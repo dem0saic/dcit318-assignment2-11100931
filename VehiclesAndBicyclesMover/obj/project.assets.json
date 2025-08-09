@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\InterfaceMovablesDemo\\InterfaceMovablesDemo.csproj",
-      "projectName": "InterfaceMovablesDemo",
-      "projectPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\InterfaceMovablesDemo\\InterfaceMovablesDemo.csproj",
+      "projectUniqueName": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\VehiclesAndBicyclesMover\\VehiclesAndBicyclesMover.csproj",
+      "projectName": "VehiclesAndBicyclesMover",
+      "projectPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\VehiclesAndBicyclesMover\\VehiclesAndBicyclesMover.csproj",
       "packagesPath": "C:\\Users\\QUACOE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\InterfaceMovablesDemo\\obj\\",
+      "outputPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\VehiclesAndBicyclesMover\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QUACOE\\AppData\\Roaming\\NuGet\\NuGet.Config"
