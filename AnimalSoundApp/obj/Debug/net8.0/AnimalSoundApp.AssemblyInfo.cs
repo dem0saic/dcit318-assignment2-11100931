@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnimalSoundApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d01eff15729fd40f6a796b20767a0ac7a1707beb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee0fc6dd5b41b234212ccbae0fdbc11f9747f247")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnimalSoundApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnimalSoundApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
