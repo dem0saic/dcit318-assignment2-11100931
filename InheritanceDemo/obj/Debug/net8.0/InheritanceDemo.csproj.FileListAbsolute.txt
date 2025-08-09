@@ -1,0 +1,5 @@
+C:\Users\QUACOE\Documents\DCIT 318 1 S2-2425\dcit318-assignment2-11100931\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUACOE\Documents\DCIT 318 1 S2-2425\dcit318-assignment2-11100931\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\QUACOE\Documents\DCIT 318 1 S2-2425\dcit318-assignment2-11100931\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\QUACOE\Documents\DCIT 318 1 S2-2425\dcit318-assignment2-11100931\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\QUACOE\Documents\DCIT 318 1 S2-2425\dcit318-assignment2-11100931\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.sourcelink.json
