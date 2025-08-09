@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VehiclesAndBicyclesMover")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abd1d38c986e550712a28aee9ca361df5f537d76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f20386f9885b64c0f4f9c14dfbb55699221f3d9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("VehiclesAndBicyclesMover")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VehiclesAndBicyclesMover")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
