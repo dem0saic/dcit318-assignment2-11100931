@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\InheritanceDemo\\InheritanceDemo.csproj",
-      "projectName": "InheritanceDemo",
-      "projectPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\InheritanceDemo\\InheritanceDemo.csproj",
+      "projectUniqueName": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\AnimalSoundApp\\AnimalSoundApp.csproj",
+      "projectName": "AnimalSoundApp",
+      "projectPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\AnimalSoundApp\\AnimalSoundApp.csproj",
       "packagesPath": "C:\\Users\\QUACOE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\InheritanceDemo\\obj\\",
+      "outputPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\AnimalSoundApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QUACOE\\AppData\\Roaming\\NuGet\\NuGet.Config"

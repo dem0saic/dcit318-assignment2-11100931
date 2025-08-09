@@ -1,4 +1,4 @@
-﻿namespace InheritanceDemo
+﻿namespace AnimalSoundApp
 {
     public class Animal
     {
