@@ -1,4 +1,4 @@
-﻿namespace AbstractShapesDemo
+﻿namespace ShapesAreaCalculator
 {
     public abstract class Shape
     {

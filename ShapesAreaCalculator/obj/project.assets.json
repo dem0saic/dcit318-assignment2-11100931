@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\AbstractShapesDemo\\AbstractShapesDemo.csproj",
-      "projectName": "AbstractShapesDemo",
-      "projectPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\AbstractShapesDemo\\AbstractShapesDemo.csproj",
+      "projectUniqueName": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\ShapesAreaCalculator\\ShapesAreaCalculator.csproj",
+      "projectName": "ShapesAreaCalculator",
+      "projectPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\ShapesAreaCalculator\\ShapesAreaCalculator.csproj",
       "packagesPath": "C:\\Users\\QUACOE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\AbstractShapesDemo\\obj\\",
+      "outputPath": "C:\\Users\\QUACOE\\Documents\\DCIT 318 1 S2-2425\\dcit318-assignment2-11100931\\ShapesAreaCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QUACOE\\AppData\\Roaming\\NuGet\\NuGet.Config"
